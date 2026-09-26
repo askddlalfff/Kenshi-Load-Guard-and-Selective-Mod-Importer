@@ -115,6 +115,3 @@ Both tools are currently **Python-only**. If you'd like to contribute a PyInstal
 
 Unofficial fan tools, not affiliated with or endorsed by Lo-Fi Games. *Kenshi* is a trademark of Lo-Fi Games. Use at your own risk; both tools are designed to be strictly reversible, but backups are always a good idea.
 
-## License
-
-MIT — see [LICENSE](LICENSE).
